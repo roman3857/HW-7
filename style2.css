@@ -1,7 +1,12 @@
-.br {
+a[href="https://www.youtube.com/"] {
     color: red;
 }
-.p {
+a[href="https://validator.w3.org/"] {
+    color: red;
+}
+.list>p {
     font-size: 24px;
 }
+
+
 
